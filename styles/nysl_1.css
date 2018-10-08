@@ -1,0 +1,75 @@
+header {
+    background-image: url("https://s3.amazonaws.com/gbstool/emails/2028/design1_image1.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1537434000&Signature=0BFrwe1bUn0VPhKgdCK4O3Ge1jg%3D");
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+}
+
+body {
+    background: darkred;
+}
+
+#logo {
+
+    float: right;
+    position: absolute;
+    top: 270px;
+    width: 7%;
+    right: 3%;
+}
+
+
+.alinear {
+    display: inline-block;
+
+
+}
+
+.text1 {
+    display: block;
+
+}
+
+.text2 {
+    display: block;
+    float: right
+}
+
+.contact {
+    display: block;
+    float: right;
+}
+
+a {
+    display: block;
+    font-size: 24px;
+    color:ghostwhite
+}
+
+section {
+    float: left;
+    width: 30%;
+}
+
+aside {
+    float: right;
+    width: 70%;
+
+}
+
+main > h2 {
+    text-align: center;
+    height: 50px;
+}
+
+p {
+    color: ghostwhite
+}
+
+h1 {
+    color: ghostwhite
+}
+h2 {color:ghostwhite
+}
+h3{color:ghostwhite
+}

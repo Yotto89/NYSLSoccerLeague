@@ -1,0 +1,102 @@
+
+header {
+    background-image: url("https://s3.amazonaws.com/gbstool/emails/2028/design2_image1.jpg?AWSAccessKeyId=AKIAJBIZLMJQ2O6DKIAA&Expires=1537520400&Signature=LsXvM%2BiNqS%2BferVFkmeORP6eBSk%3D");
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+    margin-top: 70px;
+}
+
+#logo {
+
+    float: left;
+    position: absolute;
+    top: 450px;
+    width: 10%;
+    left: 2%;
+}
+
+#mail {
+    color: black
+}
+
+body {
+    font-family: fantasy;
+    text-decoration-color: black;
+}
+
+.active {color:cadetblue; 
+background-color: aquamarine}
+
+.navBar {
+    height: 100px;
+    position: absolute;
+    top: 80px;
+    font-size: 14pt;
+    right: 0;
+}
+
+.text1 {
+    display: block;
+    float: right;
+    width: 80%;
+    height: 200%;
+
+
+}
+
+.text2 {
+    display: block;
+    float: right;
+    width: 80%;
+    height: 200%;
+}
+
+.contact {
+    display: block;
+    text-align: center;
+}
+
+
+a { 
+    border-style: double;
+    border-color: whitesmoke;
+    color: whitesmoke;
+}
+
+
+p {
+    color: black;
+    display: block;
+
+}
+
+h1 {
+    color: black;
+    position: relative;
+    top: -70px;
+
+}
+
+h2 {
+    color: whitesmoke;
+    background-color: black;
+    margin-top:inherit;
+}
+
+h3 {
+    color: black
+}
+
+main > h2 {
+    text-align: center;
+    height: 31px;
+}
+
+
+div {
+    float: right;
+    width: 20%;
+
+
+}

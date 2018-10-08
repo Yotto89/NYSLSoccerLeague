@@ -1,0 +1,463 @@
+header {
+    background-image: url(mainftb.jpg);
+    background-repeat: no-repeat;
+    height: 390px;
+    background-size: cover;
+    background-position: center;
+    margin: 0px;
+
+
+}
+
+.logo {
+
+    float: left;
+    position: absolute;
+    top: 360px;
+    width: 10%;
+    left: 2%;
+}
+
+
+
+body {
+    font-family: fantasy;
+    text-decoration-color: black;
+    background-image: url(color3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navBar {
+    position: absolute;
+    top: 50px;
+    font-size: 15pt;
+    color: #00394a;
+
+}
+
+.text1 {
+    display: block;
+    float: right;
+    width: 80%;
+    height: 200%;
+    padding-bottom: 10%;
+    padding-left: 10%
+}
+
+.text2 {
+    display: block;
+    padding-left: 15%;
+    margin-right: 10%
+}
+
+.contact {
+    display: block;
+    text-align: center;
+}
+
+.ginfo header {
+    height: 70px;
+    display: inline-block;
+    width: 500px;
+    margin-left: 40%;
+    margin-top: 3%;
+    margin-bottom: 3%
+}
+
+.ginfo table {
+    border-collapse: separate;
+    border-spacing: 1px;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+th,
+td {
+    border: 0px solid #cecfd5;
+}
+
+th,
+td {
+    padding: 2px 40px;
+}
+
+.ginfo h2 {
+    color: greenyellow;
+    font-family: sans-serif;
+    margin-left: 40%;
+    margin-bottom: 4%;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ginfo h3 {
+    margin-left: 17%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.ginfo h4 {
+    margin-left: 14%;
+    margin-bottom: 1%;
+    color: greenyellow;
+    font-family: sans-serif;
+}
+
+.gameloc {
+    display: flex;
+    padding-left: 30%;
+    font-family: sans-serif;
+}
+
+.ginfo .oct {
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 30%;
+}
+
+
+.ginfo td {
+    color: greenyellow;
+    font-family: sans-serif;
+}
+
+.ginfo tr {
+    color: greenyellow;
+    font-family: sans-serif;
+
+}
+
+.rules {
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.rules h2 {
+    color: greenyellow;
+    margin-left: 30px;
+}
+
+.fifa {
+    text-align: center;
+    margin-top: 30px
+}
+
+.rules h3 {
+    margin-left: 30px;
+    margin-top: 30px;
+    white-space: normal;
+}
+
+.rules li {
+    color: greenyellow;
+    margin-left: 30px;
+    font-family: sans-serif;
+    padding: 5px
+}
+
+
+.rules1 {
+    padding-top: 50px;
+}
+
+a {
+    color: skyblue;
+    font: bold;
+}
+
+
+p {
+    color: greenyellow;
+    font-family: sans-serif;
+    display: block;
+
+}
+
+h1 {
+    color: #00394a;
+    outline-color: forestgreen;
+    position: relative;
+    top: 70px;
+    text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
+    background-color: #00394a;
+    margin-top: inherit;
+    font-family: 'Lobster', cursive;
+}
+
+h3 {
+    color: greenyellow;
+    font: bold;
+    font-family: sans-serif
+}
+
+main > h2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+
+.contact {
+    margin-top: 50px
+}
+
+.text2 {
+    margin-bottom: 10%;
+    padding-top: 50px;
+    padding-right: 3%
+}
+
+.date {
+    text-align: center
+}
+
+.octb {
+    margin-left: 31%
+}
+
+.spt {
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+.oct {
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.fac {
+    font-weight: 200;
+}
+
+.add {
+    font-weight: 200
+}
+
+.quest {
+    font-weight: 200
+}
+
+.tlf {
+    font-weight: 200;
+    display: inline;
+}
+
+.spt2 {
+    width: 20%
+}
+
+.mail {
+    position: relative;
+    display: inline;
+    color: greenyellow;
+}
+
+input {
+    border-radius: 5px;
+    font: 14px/1.4 "Helvetica Neue", sans-serif;
+    margin: 0;
+}
+
+.reg1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 20%;
+    margin-left: 16%;
+
+
+}
+.reg1 input {
+    width:100%
+}
+
+.reg2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 20%;
+    margin-left: 20%;
+
+
+}
+.reg2 input {
+    width: 100%;
+    
+}
+
+.reg3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.reg10 {
+    padding-right: 9%
+}
+
+.reg4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 50%;
+    padding-left: 35%;
+}
+
+.reg5 {
+    display: block;
+    padding-left: 35%;
+    padding-right: 50%;
+}
+
+
+
+.bd {
+    display: block;
+    padding-left: 35%;
+}
+
+.reg6 {
+    display: flex;
+    padding-left: 35%;
+    padding-right: 30%;
+    justify-content: space-between
+}
+
+.grade {
+    display: block;
+    padding-left: 35%;
+}
+
+.size {
+    display: block;
+    padding-left: 35%;
+}
+
+.FCS {
+    padding-left: 35%;
+}
+
+.fcst {
+    padding-left: 35%;
+}
+
+.perm1 {
+    padding-left: 40%;
+}
+
+.perm {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.pg {
+    display: flex;
+    flex-direction: row;
+    padding-left: 15%;
+    justify-content: space-between;
+    padding-right: 25%;
+
+}
+
+.button {
+    padding-left: 40%;
+    padding-right: 15%;
+    margin-top: 2%;
+
+
+}
+
+.submit {
+    background-color: greenyellow;
+    font-family: sans-serif;
+    font-size: 15pt;
+    color: #00394a;
+    padding: 1%;
+
+}
+
+.map {
+    height: 280px;
+    width: 280px;
+    padding-right: 12%
+}
+
+.map1 {
+    height: 280px;
+    width: 280px;
+    padding-right: 12%
+}
+
+.map2 {
+    height: 280px;
+    width: 280px;
+    padding-right: 5%
+}
+
+.school1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%
+}
+
+.school2 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+
+
+}
+
+.school3 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%
+}
+
+.factype {
+    padding-left: 10%;
+    font-family: sans-serif;
+    color: greenyellow;
+}
+
+.howard {
+    margin-right: 20%
+}
+
+.greenb {
+    margin-right: 20%;
+    margin-left: 20%
+}
+
+input {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.bold {
+    font-weight:700;
+}
+.regform reg2 { padding-right: 100%}
